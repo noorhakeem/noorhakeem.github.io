@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Noor Hakeem "
-  avatar           : path of avatar image, e.g. "/assets/images/noorphoto.png"
+  avatar           : "/assets/images/noorphoto.png"
   bio              : "I am an self learned Person. Who love to Explore the new Technologie, specially Sytsem Designing stuff. I have taught everything myself. Trying to step 
                       in the next Hurdle als MLOps"
   location         : "Germany"
