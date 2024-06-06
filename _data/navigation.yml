@@ -4,9 +4,9 @@ main:
     url: https://noorhakeem.github.io
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+  - title: "Blog"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Portfolio"
     url: /collection-archive/
-  - title: "Sitemap"
+  - title: "Technology"
     url: /sitemap/
