@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark
 locale                   : "en-US"
 title                    : "Noor Hakeem"
 title_separator          : "-"
-subtitle                 : "Journey of MLOps" # site tagline that appears below site title in masthead
+subtitle                 : "The Ultimate guide of MLOps" # site tagline that appears below site title in masthead
 name                     : "Noor Hakeem"
 description              : "A Personal blog to the Journey of MLOps."
 url                      : "https://noorhakeem.github.io"
