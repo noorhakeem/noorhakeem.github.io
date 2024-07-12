@@ -322,3 +322,10 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+## added by Noor 
+
+collections:
+  portfolio:
+    output: true

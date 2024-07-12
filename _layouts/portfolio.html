@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+    <header>
+        <h1>{{ site.title }}</h1>
+        <nav>
+            <ul>
+                {% for item in site.data.navigation.main %}
+                <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>{{ page.title }}</h2>
+        <ul>
+            {% for item in site.portfolio %}
+            <li>
+                <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+                <img src="{{ item.image }}" alt="{{ item.title }}">
+                <p>{{ item.description }}</p>
+            </li>
+            {% endfor %}
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+    </footer>
+</body>
+</html>
