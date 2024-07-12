@@ -7,8 +7,9 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Portfolio"
-    url: /collection-archive/
-  - title: "Technology"
-    url: /sitemap/
+    url: /portfolio/
+
+
+#nav changed
 
 
