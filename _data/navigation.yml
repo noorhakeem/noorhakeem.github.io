@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://noorhakeem.github.io
   - title: "About"
-    url: hhttps://noorhakeem.github.io
+    url: /about/
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
   - title: "Portfolio"
     url: /collection-archive/
   - title: "Technology"
