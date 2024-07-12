@@ -20,13 +20,13 @@ title                    : "Noor Hakeem"
 title_separator          : "-"
 subtitle                 : "Journey of MLOps" # site tagline that appears below site title in masthead
 name                     : "Noor Hakeem"
-description              : "A Personal blog to the JOurney of MLOps."
+description              : "A Personal blog to the Journey of MLOps."
 url                      : "https://noorhakeem.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png"
-logo                     : "/assets/images/88x88.png"
-masthead_title           : "Noor Hakeem Blog" # overrides the website title displayed in the masthead, use " " for no title
+logo                     : #"/assets/images/88x88.png"
+masthead_title           : #"Noor Hakeem Blog" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true # false (default)
