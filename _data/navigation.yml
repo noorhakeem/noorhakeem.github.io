@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://noorhakeem.github.io
+    url: /home/
   - title: "About"
     url: /about/
   - title: "Blog"
@@ -10,3 +10,5 @@ main:
     url: /collection-archive/
   - title: "Technology"
     url: /sitemap/
+
+
