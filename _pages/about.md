@@ -4,6 +4,14 @@ title: About
 permalink: /about/
 ---
 
-# Blog
+## Welcome to the About Page
 
-Welcome to the blog. Here you can find the latest posts.
+This is your home page content. You can write any Markdown content here.
+
+### Section 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+### Section 2
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
