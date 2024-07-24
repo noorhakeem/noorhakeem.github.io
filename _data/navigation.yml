@@ -2,12 +2,12 @@
 main:
   - title: "Home"
     url: /home/
-  - title: "About"
-    url: /about/
-  - title: "Blog"
-    url: /blog/
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "About"
+   # url: /about/
+  #- title: "Blog"
+   # url: /blog/
+  #- title: "Portfolio"
+   # url: /portfolio/
 
 
 #nav changed
