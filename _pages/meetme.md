@@ -9,7 +9,7 @@ permalink: /meetme/
 
 ## Wow
 
-This is Awesome. You found me . It's nice to meet you. I am glad you are here. 
+This is Awesome. You are finally here . It's like Universe is trying itself to meet us. Just Kidding 😊. It's nice to meet you. I am glad you are here. 
 
 I am Noor Hakeem. I love technology. It doesn't matter to me what that Tech Piece is doing. If there are some kind of machine, code & electronics, I am hooked. 
 
@@ -27,3 +27,9 @@ I want be an MLOps. It's going to tough if not Brutal. As I don't hold any Acade
 ### The ML OPs Journey
 
 I thought myself, why not share my journey somewhere. Mainly two reason. 
+To force myself to Write and explain what I just learn. 
+
+And offcourse to share with the Community who are finding themselves is the same Situation. 
+
+Fell free to contact me in [LinkedIn](https://www.linkedin.com/in/noor-hakeem-14867712b/)
+<a href="https://www.linkedin.com/in/noor-hakeem-14867712b/" target="_blank">LinkedIn</a>

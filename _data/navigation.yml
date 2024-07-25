@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Home"
-    url: /home/
+  #- title: "Home"
+   # url: /home/
   - title: "Blog"
     url: /blog/
-  - title: "About"
-    url: /about/
+  - title: "Meet Me"
+    url: /meetme/
   
   #- title: "Portfolio"
    # url: /portfolio/

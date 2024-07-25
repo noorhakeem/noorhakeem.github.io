@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-Welcome to the blog. Here you can find the latest posts.
+Welcome to the blog. 
 
 {% for post in _posts.posts %}
 ## [{{ post.title }}]({{ post.url }})
