@@ -1,4 +1,4 @@
-Wow
+#Wow
 This is Awesome. You are finally here . It’s like Universe is trying itself to meet us. Just Kidding 😊. It’s nice to meet you. I am glad you are here.
 
 I am Noor Hakeem. I love technology. It doesn’t matter to me what that Tech Piece is doing. If there are some kind of machine, code & electronics, I am hooked.
