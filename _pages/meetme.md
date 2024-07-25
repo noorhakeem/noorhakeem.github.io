@@ -31,5 +31,6 @@ To force myself to Write and explain what I just learn.
 
 And offcourse to share with the Community who are finding themselves is the same Situation. 
 
-Fell free to contact me in [LinkedIn](https://www.linkedin.com/in/noor-hakeem-14867712b/)
+Fell free to contact me in 
 <a href="https://www.linkedin.com/in/noor-hakeem-14867712b/" target="_blank">LinkedIn</a>
+
