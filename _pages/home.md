@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: portfolio
 title: Home
 permalink: /home/
+---
+
 ---
 
 ## Welcome to the Home Page

@@ -1,16 +1,12 @@
 ---
-layout: archive
+layout: default
 ---
 
 <div class="home-page">
-    <div class="sidebar">
-        {% include sidebar.html %}
-    </div>
-
   <div class="main-content">
     {{ content }}
 
-    <!-- this is a test html, must be deleted today is 25.07.24 -->
+    <!-- Other home page content here -->
 
     <ul class="taxonomy__index">
       {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
@@ -38,5 +34,7 @@ layout: archive
     {% endfor %}
   </div>
 
- 
+  <div class="sidebar">
+    {% include sidebar.html %}
+  </div>
 </div>
