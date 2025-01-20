@@ -11,9 +11,7 @@ Feel free to follow the link in to see my Portfolio :
 
 <a href="https://medium.com/@noor_hakeem" target="_blank">Me in Medium</a> 
 
-<a href="https://medium.com/@noor_hakeem" target="_blank">Me in Medium</a> 
-
-Fell free to follow me in 
+Feel free to follow me in 
 <a href="https://www.linkedin.com/in/noor-hakeem-14867712b/" target="_blank">LinkedIn</a> 
  for more small update. 
 
